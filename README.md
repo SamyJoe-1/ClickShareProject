@@ -49,8 +49,8 @@ A feature-rich product management system built for an e-commerce platform using 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/ecommerce-product-management.git
-   cd ecommerce-product-management
+   git clone https://github.com/SamyJoe-1/ClickShareProject.git
+   cd ClickShareProject
 Install Dependencies:
 
 bash
