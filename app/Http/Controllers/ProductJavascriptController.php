@@ -14,6 +14,6 @@ class ProductJavascriptController extends Controller
     public function index(Request $request)
     {
         $token = $this->generateToken();
-        return view('products_js.index', compact('token'));
+        return view('products.index_js', compact('token'));
     }
 }
